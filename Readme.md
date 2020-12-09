@@ -12,8 +12,4 @@ Budget App is Progressive Web Application that allows the user to be able to add
 Users will be able to use the app on the go by following the URl link.
 ## Usage Information:
 Users do not need to create and account. They can begin using to as soon as they get onto the site. Follow the site link and enjoy the app.
-## Test Instructions:
-
-## Contribution Guidelines:
-
 ## License: MIT
